@@ -1,5 +1,5 @@
 Hi, I'm Soubhik Rakshit 👋
-AI Product Manager | Lead Data Scientist | Building Generative AI Products 
+Lead Data Scientist turned AI Product Manager, driving Generative AI solutions that align technical innovation with real-world business value.
 
 Driving Generative AI solutions that bridge the gap between cutting-edge technology and business outcomes.
 
