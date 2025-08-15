@@ -1,5 +1,5 @@
 Hi, I'm Soubhik Rakshit 👋
-Lead Data Scientist, driving Generative AI solutions that align technical innovation with real-world business value.
+AI Product Lead/Lead Data Scientist, driving Generative AI solutions that align technical innovation with real-world business value.
 
 Driving Generative AI solutions that bridge the gap between cutting-edge technology and business outcomes.
 
